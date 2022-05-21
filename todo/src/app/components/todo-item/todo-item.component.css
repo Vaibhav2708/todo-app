@@ -1,0 +1,8 @@
+.border {
+  border: 5px dashed;
+  padding: 10px;
+}
+
+.strike {
+  text-decoration: line-through;
+}
